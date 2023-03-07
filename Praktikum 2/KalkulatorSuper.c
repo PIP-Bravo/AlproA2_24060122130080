@@ -6,9 +6,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-//kamus
 int main()
 {
+//Kamus
     int iA;
     int iB;
     char jenis;
