@@ -5,9 +5,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Kamus
 int main()
 {
+//Kamus
     int m;
     int v;
     int r;
