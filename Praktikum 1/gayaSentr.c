@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus
 int main()
 {
     int m;
@@ -13,6 +14,7 @@ int main()
     float F;
     const int g=10;
 
+//Algoritma
     printf("Masukkan nilai m:");
     scanf("%d",&m);
 
