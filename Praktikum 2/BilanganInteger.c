@@ -5,10 +5,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus
 int main()
 {
     int i;
-
+//Algoritma
     printf("Masukkan Nilai i :");
 
     if (scanf("%d",&i)) {
