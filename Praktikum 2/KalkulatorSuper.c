@@ -6,12 +6,14 @@
 #include <stdlib.h>
 #include <string.h>
 
+//kamus
 int main()
 {
     int iA;
     int iB;
     char jenis;
-
+    
+//Algoritma
     printf("Jenis operasi apa yang anda ingin lakukan (a-f):");
     scanf("%c",&jenis);
 
