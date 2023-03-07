@@ -5,13 +5,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus
 int main()
 {
     int r;
     float Vb;
     float Vk;
     const float phi=3.14;
-
+    
+//Algoritma
     printf("Masukkan nilai r:");
     scanf("%d",&r);
 
