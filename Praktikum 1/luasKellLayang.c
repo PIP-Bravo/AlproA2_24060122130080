@@ -6,6 +6,7 @@ Luas layang layang=0.5*d1*d2, dan keliling layang layang=2*(s1+s2) */
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus
 int main()
 {
     int s1;
@@ -14,7 +15,8 @@ int main()
     int d2;
     float L;
     float K;
-
+    
+//Algoritma
     printf("Masukkan nilai s1:");
     scanf("%d",&s1);
 
