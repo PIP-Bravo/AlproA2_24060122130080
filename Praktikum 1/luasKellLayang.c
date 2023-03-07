@@ -6,9 +6,9 @@ Luas layang layang=0.5*d1*d2, dan keliling layang layang=2*(s1+s2) */
 #include <stdio.h>
 #include <stdlib.h>
 
-//Kamus
 int main()
 {
+//Kamus
     int s1;
     int s2;
     int d1;
