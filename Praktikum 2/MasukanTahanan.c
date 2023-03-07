@@ -5,12 +5,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Kamus
 int main()
 {
     int th1;
     int th2;
     int th3;
-
+    
+//Algoritma
     printf("Masukkan tahanan 1 :");
     scanf("%d",&th1);
 
