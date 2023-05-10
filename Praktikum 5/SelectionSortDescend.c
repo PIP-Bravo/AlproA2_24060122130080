@@ -28,8 +28,9 @@ int main()
         }
     }
 
+    printf("Maka data yang telah diurutkan adalah:\n");
     for (int i=(N-1);i>=0;i--)
     {
-        printf("a[%d]=%d\n",i,a[i]);
+        printf("%d\n",a[i]);
     }
 }
